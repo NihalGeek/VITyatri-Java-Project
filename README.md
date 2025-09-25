@@ -38,8 +38,8 @@ You will need the following software installed on your system:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone https://github.com/NihalGeek/your-repository-name.git
+cd your-repository-name
     ```
 
 2.  **Open in your IDE:**
