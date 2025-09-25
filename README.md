@@ -12,13 +12,6 @@ This application provides a command-line interface (CLI) for an educational inst
 -   **💾 Data Operations:** Import and export data from/to text files, and create timestamped backups of all application data.
 -   **📊 Simple Reporting:** Generate basic reports, like GPA distribution or course listings by department.
 
-## Screenshots
-
-| Main Menu                               | Student Transcript                      | Backup Folder                           |
-| --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| ![Main Menu](screenshots/main-menu.png) | ![Transcript](screenshots/transcript.png) | ![Backup](screenshots/backup-folder.png) |
-
-> **Note:** Replace the file paths in `screenshots/` with the actual paths to your own screenshots.
 
 ## Technology Stack
 
